@@ -24,8 +24,8 @@
 									</div>
 									<div id="collapseTwo" class="panel-collapse collapse">
 										<div class="panel-body">
-										<p><a href="MantenimientoEspacios.jsp">Consultores</a></p>
-											<p><a href="MantenimientoResidente.jsp">Proyectos</a></p>
+										<p><a href="MantenimientoConsultor.jsp">Consultores</a></p>
+										<p><a href="MantenimientoResidente.jsp">Proyectos</a></p>
 											
 										</div>
 									</div>

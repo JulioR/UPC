@@ -4,7 +4,7 @@
 				<div class="col-xs-12">
 					<div class="pull-right" style="padding-right: 13px;">
 						<span class="link">
-						<span class=" glyphicon glyphicon-user"></span>gramos</span>
+						<span class=" glyphicon glyphicon-user"></span>Proyecto-DDS</span>
 						<a href="#">Cerrar</a>
 					</div>
 				</div>

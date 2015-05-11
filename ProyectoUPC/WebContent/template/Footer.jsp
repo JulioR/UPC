@@ -9,10 +9,10 @@
 				<div class="container">
 					<div class="col-xs-12">
 						<div style="width:50%;float:left;text-align:left">
-							<p>Condominios SAC  - Todos los Derechos Reservados 2014</p>
+							<p>Consultores SAC  - Todos los Derechos Reservados 2015</p>
 						</div>
 						<div style="width:50%;float:right;text-align:right;padding-right: 50px;">
-							<p>Powered by <a href="#"><label>Hard Code</label></a><p>
+							<p>Powered by <a href="#"><label>UPC Hard-Code</label></a><p>
 						</div>
 					</div>
 				</div>
