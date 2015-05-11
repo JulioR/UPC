@@ -4,7 +4,7 @@
 				<div class="col-xs-12">
 					<div class="pull-right" style="padding-right: 13px;">
 						<span class="link">
-						<span class=" glyphicon glyphicon-user"></span>Proyecto-DDS</span>
+						<span class=" glyphicon glyphicon-user"></span>Proyecto-DSD</span>
 						<a href="#">Cerrar</a>
 					</div>
 				</div>
@@ -28,10 +28,10 @@
 							<div class="pull-right">
 								<form class="form-inline form-search">
 									<div class="form-group" style="float:left">
-										<label style="padding-top:5px;padding-right:10px;padding-top: 12px;" class="control-label" for="txtFilterText">Residente :</label>
+										<label style="padding-top:5px;padding-right:10px;padding-top: 12px;" class="control-label" for="txtFilterText">Consultor :</label>
 									</div>
 									<div class="icon-addon addon-lg" style="float:left">
-										<input style="width:250px;font-size:small;" type="text" placeholder="Nombre o Nro de Documento" class="form-control">
+										<input style="width:250px;font-size:small;" type="text" placeholder="" class="form-control">
 										<label class="glyphicon glyphicon-search" rel="tooltip" title=""></label>
 									</div>
 								</form>

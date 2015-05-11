@@ -55,12 +55,19 @@
         <input class="form-control" type="text" name="especializacion" id="especializacion"/>
       </label></td>
     </tr>
+        
     <tr>
-      <td>Categoria</td>
+      <td >Categoria:</td>
       <td><label>
-        <input class="form-control" type="text" name="categoria" id="categoria"/>
+         <select class="form-control" type= "text" name="categoria" id="categoria">
+ 				 	<option >Senior1</option>
+  					<option >Senior2</option>
+  					<option >Junior1</option>
+  					<option >Junior2</option>
+  		</select>
       </label></td>
     </tr>
+    
     <tr>
       <td colspan="2">
          <input class="btn btn-success" type="submit" value="Guardar" />
