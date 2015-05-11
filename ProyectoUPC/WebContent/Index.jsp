@@ -4,7 +4,7 @@
 <html lang="es">
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
 <meta name="viewport" content="width=device-width,initial-scale=1">
-<title>Sistema Condominios</title>
+<title>Sistema Consultores</title>
  <head>  
  		<link rel="stylesheet" href="bootstrap/css/bootstrap.css" />
 		<link rel="stylesheet" href="bootstrap/css/bootstrap.min.css" />

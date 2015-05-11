@@ -19,16 +19,13 @@
 								<div class="panel panel-default">
 									<div class="panel-heading">
 										<h4 class="panel-title">
-											<a data-toggle="collapse" data-parent="#accordion" href="#collapseTwo">Mantenimientos</a>
+											<a data-toggle="collapse" data-parent="#accordion" href="#collapseTwo">Actualizaciones</a>
 										</h4>
 									</div>
 									<div id="collapseTwo" class="panel-collapse collapse">
 										<div class="panel-body">
-										<p><a href="MantenimientoEspacios.jsp">EspaciosEnComun</a></p>
-											<p><a href="MantenimientoResidente.jsp">Residentes</a></p>
-											<p><a href="MantenimientoVivienda.jsp">Viviendas</a></p>
-											<p><a href="MantenimientoUsuarios.jsp">Usuarios</a></p>
-											
+										<p><a href="MantenimientoEspacios.jsp">Consultores</a></p>
+											<p><a href="MantenimientoResidente.jsp">Proyectos</a></p>
 											
 										</div>
 									</div>
@@ -36,22 +33,20 @@
 								<div class="panel panel-default">
 									<div class="panel-heading">
 										<h4 class="panel-title">
-											<a data-toggle="collapse" data-parent="#accordion" href="#collapseThree">Cuotas</a>
+											<a data-toggle="collapse" data-parent="#accordion" href="#collapseThree">Gestion</a>
 										</h4>
 									</div>
 									<div id="collapseThree" class="panel-collapse collapse">
 										<div class="panel-body">
-											<p><a href="MantenimientoCuota.jsp">Registro de Cuotas</a></p>
-											<p><a href="MantenimientoPagos.jsp">Pagos de Cuotas</a></p>
-											<p><a href="MantenimientoVisita.jsp">Registro de Visita</a></p>
-											<p><a href="MantenimientoJunta.jsp">Registro de Junta</a></p>
+											<p><a href="MantenimientoCuota.jsp">Solicitud de Consultores</a></p>
+											<p><a href="MantenimientoPagos.jsp">Asignacion de Consultores</a></p>
 										</div>
 									</div>
 								</div>
 								<div class="panel panel-default">
 									<div class="panel-heading">
 										<h4 class="panel-title">
-											<a data-toggle="collapse" data-parent="#accordion" href="#collapseFour">Consultar</a>
+											<a data-toggle="collapse" data-parent="#accordion" href="#collapseFour">Consultas</a>
 										</h4>
 									</div>
 									<div id="collapseFour" class="panel-collapse collapse">
@@ -62,29 +57,14 @@
 									</div>
 								</div>
 								
-								<div class="panel panel-default">
-									<div class="panel-heading">
-										<h4 class="panel-title">
-											<a data-toggle="collapse" data-parent="#accordion" href="#collapseFive">Gestionar</a>
-										</h4>
-									</div>
-									<div id="collapseFive" class="panel-collapse collapse">
-										<div class="panel-body">
-											<p><a href="BandejaTableroControl.html">Reserva de Espacio Común</a></p>
-											<p><a href="MantenimientoQueja.jsp">Registro de Quejas</a></p>
-											<p><a href="MantenimientoVisita.jsp">Registro de Visitas</a></p>
-											<p><a href="MantenimientoJunta.jsp">Registro de Juntas</a></p>
-										</div>
-									</div>
-								</div>
 								
 								<div class="panel panel-default">
 									<div class="panel-heading">
 										<h4 class="panel-title">
-											<a data-toggle="collapse" data-parent="#accordion" href="#collapseSix">Sesion</a>
+											<a data-toggle="collapse" data-parent="#accordion" href="#collapseFive">Sesion</a>
 										</h4>
 									</div>
-									<div id="collapseSix" class="panel-collapse collapse">
+									<div id="collapseFive" class="panel-collapse collapse">
 										<div class="panel-body">
 											<p><a href="Login.jsp">Inicio</a></p>
 											<p><a href="Logout.jsp">FinSesion</a></p>
